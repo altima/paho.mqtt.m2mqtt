@@ -16,7 +16,7 @@ Contributors:
 
 using System;
 
-namespace uPLibrary.Networking.M2Mqtt.Exceptions
+namespace uPLibraryClient.Networking.M2Mqtt.Exceptions
 {
     /// <summary>
     /// Connection to the broker exception

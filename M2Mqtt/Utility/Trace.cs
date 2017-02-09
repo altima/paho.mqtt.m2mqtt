@@ -16,7 +16,7 @@ Contributors:
 
 using System.Diagnostics;
 
-namespace uPLibrary.Networking.M2Mqtt.Utility
+namespace uPLibraryClient.Networking.M2Mqtt.Utility
 {
     /// <summary>
     /// Tracing levels

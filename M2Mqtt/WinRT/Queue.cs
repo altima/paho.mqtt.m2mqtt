@@ -16,7 +16,7 @@ Contributors:
 
 using System.Collections.Generic;
 
-namespace uPLibrary.Networking.M2Mqtt
+namespace uPLibraryClient.Networking.M2Mqtt
 {
     /// <summary>
     /// Wrapper Queue class for generic Queue<T> (the only available in WinRT)

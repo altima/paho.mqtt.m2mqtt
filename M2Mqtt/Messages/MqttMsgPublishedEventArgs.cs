@@ -20,7 +20,7 @@ using System;
 using Microsoft.SPOT;
 #endif
 
-namespace uPLibrary.Networking.M2Mqtt.Messages
+namespace uPLibraryClient.Networking.M2Mqtt.Messages
 {
     /// <summary>
     /// Event Args class for published message

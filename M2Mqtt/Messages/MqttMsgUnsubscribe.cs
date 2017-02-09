@@ -21,9 +21,9 @@ using System.Collections.Generic;
 #endif
 using System.Collections;
 using System.Text;
-using uPLibrary.Networking.M2Mqtt.Exceptions;
+using uPLibraryClient.Networking.M2Mqtt.Exceptions;
 
-namespace uPLibrary.Networking.M2Mqtt.Messages
+namespace uPLibraryClient.Networking.M2Mqtt.Messages
 {
     /// <summary>
     /// Class for UNSUBSCRIBE message from client to broker

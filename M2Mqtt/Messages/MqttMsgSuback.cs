@@ -15,9 +15,9 @@ Contributors:
 */
 
 using System;
-using uPLibrary.Networking.M2Mqtt.Exceptions;
+using uPLibraryClient.Networking.M2Mqtt.Exceptions;
 
-namespace uPLibrary.Networking.M2Mqtt.Messages
+namespace uPLibraryClient.Networking.M2Mqtt.Messages
 {
     /// <summary>
     /// Class for SUBACK message from broker to client

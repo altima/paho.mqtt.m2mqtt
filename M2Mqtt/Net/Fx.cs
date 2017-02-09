@@ -16,7 +16,7 @@ Contributors:
 
 using System.Threading;
 
-namespace uPLibrary.Networking.M2Mqtt
+namespace uPLibraryClient.Networking.M2Mqtt
 {
     /// <summary>
     /// Support methods fos specific framework

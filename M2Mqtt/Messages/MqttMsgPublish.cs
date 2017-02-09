@@ -16,9 +16,9 @@ Contributors:
 
 using System;
 using System.Text;
-using uPLibrary.Networking.M2Mqtt.Exceptions;
+using uPLibraryClient.Networking.M2Mqtt.Exceptions;
 
-namespace uPLibrary.Networking.M2Mqtt.Messages
+namespace uPLibraryClient.Networking.M2Mqtt.Messages
 {
     /// <summary>
     /// Class for PUBLISH message from client to broker

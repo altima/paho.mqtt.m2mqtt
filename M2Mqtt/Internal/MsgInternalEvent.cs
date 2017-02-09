@@ -14,9 +14,9 @@ Contributors:
    Paolo Patierno - initial API and implementation and/or initial documentation
 */
 
-using uPLibrary.Networking.M2Mqtt.Messages;
+using uPLibraryClient.Networking.M2Mqtt.Messages;
 
-namespace uPLibrary.Networking.M2Mqtt.Internal
+namespace uPLibraryClient.Networking.M2Mqtt.Internal
 {
     /// <summary>
     /// Internal event with a message

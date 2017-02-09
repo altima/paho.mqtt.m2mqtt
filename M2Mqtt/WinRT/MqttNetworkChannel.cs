@@ -25,7 +25,7 @@ using System.Runtime.InteropServices.WindowsRuntime;
 using Windows.Storage.Streams;
 using System.Threading;
 
-namespace uPLibrary.Networking.M2Mqtt
+namespace uPLibraryClient.Networking.M2Mqtt
 {
     public class MqttNetworkChannel : IMqttNetworkChannel
     {
